@@ -1,0 +1,117 @@
+head{
+	font-family: cursive;
+}
+
+.ima{
+	margin-top: 974;
+}
+.mar{
+	width: 1340px;
+	height: 36px;
+	background-color: white;
+	font-size: 22px;
+}
+.boton1{
+	position: absolute; top: 550px; left: 90px;
+	width: 100px;
+    height: 70px;
+    background-color: pink;
+}
+.boton1:hover {
+	
+	
+	height:210px;
+	width:310px;
+	text-shadow: transparent;
+	background: url(jeje.jpeg);
+	color: transparent;
+	position: absolute;
+}
+.boton2{
+	position: absolute; top: 550px; left: 600px;
+	width: 100px;
+    height: 70px;
+	background-color: #85AF82;
+}
+.boton2:hover {
+	
+	height: 150px;
+	width: 300px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(cuandoo.jpeg);
+	position: absolute;
+}
+.boton3{
+	position: absolute; top: 550px; left: 1000px;
+	width: 100px;
+    height: 70px;
+	background-color: silver;
+}
+.boton3:hover {
+	height: 150px;
+	width: 360px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(hip.jpeg);
+	position: absolute;
+}
+
+.p1{
+	position: absolute; top: 200px; left: 170px;
+	width: 100px;
+    height: 70px;
+	background-color: white;
+}
+.p1:hover {
+	height: 500px;
+	width: 500px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(jip2.jpeg);
+	position: absolute;
+}
+
+.p2{
+	position: absolute; top: 200px; left: 980px;
+	width: 100px;
+    height: 70px;
+	background-color: white;
+}
+.p2:hover {
+	height: 224px;
+	width: 400px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(amapola.jpeg);
+	position: absolute;
+}
+.p3{
+	position: absolute; top: 800px; left: 90px;
+	width: 100px;
+    height: 70px;
+	background-color: white;
+}
+.p3:hover {
+	height: 453px;
+	width: 400px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(yo.jpeg);
+	position: absolute;
+}
+
+.p4{
+	position: absolute; top: 900px; left: 870px;
+	width: 100px;
+    height: 70px;
+	background-color: white;
+}
+.p4:hover {
+	height: 400px;
+	width: 400px;
+	text-shadow: transparent;
+	color: transparent;
+	background: url(hoy.jpeg);
+	position: absolute;
+}
